@@ -1,3 +1,5 @@
+https://github.com/DFRobot/DFRobot_DF1101S
+https://github.com/irco555/library-registry.git
 https://github.com/nayooooo/StreamDeviceAT
 https://github.com/1ux/LED_RGB_Control
 https://github.com/1ux/DCF77Decode
